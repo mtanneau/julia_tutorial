@@ -2,7 +2,18 @@
 
 The Julia programming language was initially released in 2012, and has since gained significant momentum and support in the scientific community. This introductory talk gives an overview of what Julia is and what it can be used for, and is directed at OR practitioners with little to no experience of Julia.
 
-## Talk outline
+## Getting the material
+
+1. Clone the repository, run the notebooks with Jupyter.
+    Requires you to have Julia 1.0 + Jupyter installed on your machine.
+
+2. Use JuliaBox (no installation required): https://juliabox.com/
+    * Create a JuliaBox account (it's free)
+    * Open a session
+    * Go to Dashboard/Git
+    * Clone this repository (https://github.com/mtanneau/julia_tutorial.git)
+    * Access the files direcly within JuliaBox.
+## Contents
 
 ### The Julia programming language
 
